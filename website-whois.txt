@@ -1,0 +1,31 @@
+---------------------------------------
+Domain Information
+---------------------------------------
+Domain: kanye.cc
+Registered On: 2026-11-12
+Expires On: 2027-11-12
+Updated On: 2026-11-12
+Status: client transfer prohibited
+Name Server 1: launch1.spaceship.net
+Name Server 2: launch2.spaceship.net
+
+---------------------------------------
+Registrar Information
+---------------------------------------
+Registrar: Spaceship, Inc.
+IANA ID: 3862
+Email: support@spaceship.com
+Abuse Email: abuse@spaceship.com
+Abuse Phone: +1.9854014545
+
+---------------------------------------
+Registrant Contact
+---------------------------------------
+Name: Lutz Schuler
+Organization: TELEFONICA UK LIMITED
+Street: 500 Brook Drive
+City: Reading
+Postal Code: RG2 6UU
+Country: GB
+Phone: +44.8001111
+Email: email@o2.uk
